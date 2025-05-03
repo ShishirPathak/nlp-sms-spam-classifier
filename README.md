@@ -40,7 +40,6 @@ Each message is labeled as either **"spam"** or **"ham"**.
 
 ## 🏆 Results
 - Enhanced accuracy with feature engineering
-- Best performance from [Insert Best Model Here] with high spam recall and balanced precision
 - Binary encoding significantly boosted model effectiveness
 
 ## 📌 Conclusion
