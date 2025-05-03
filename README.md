@@ -3,10 +3,6 @@
 ## 📌 Project Overview
 This project evaluates the performance of Natural Language Processing (NLP)-driven Machine Learning (ML) models for detecting spam in SMS messages. It focuses on preprocessing, feature engineering, vectorization, and the comparative analysis of multiple classification algorithms to determine the most effective spam detection strategy.
 
-## 👨‍💻 Group Members
-- Ashutosh – 28
-- Shishir Pathak – 32
-- Hieu Ho – 17
 
 ## 🧠 Problem Statement
 With the rising use of SMS, spam messages have become a significant issue, impacting user trust and privacy. This project aims to:
